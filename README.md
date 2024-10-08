@@ -40,8 +40,9 @@ If you have any feedback, please reach out to me at cserohitmore@gmail.com
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitmore07)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rohittmore)
 
-## License
-Licensed under MIT License. 
+## 🛡️ License
+[Copyright (c) 2024 Rohit More](https://opensource.org/licenses/MIT) This project is licensed under the MIT License.
+
 Contributions are welcome!
 
 
