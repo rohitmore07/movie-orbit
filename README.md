@@ -10,19 +10,19 @@ Movie Orbit integrates with The Movie Database (TMDB) API to fetch real-time dat
 
 ## Features
 
-### Browse Movies :
+### 1. Browse Movies :
 - Upcoming Movies: View movies that are set to release soon.
 - Popular Movies: Discover movies that are currently popular among users.
 - Trending Movies: Check out movies that are currently trending.
 - Genres: Browse movies by specific genres (e.g., Action, Drama, Comedy, etc.).
 
-### Movie Information :
+### 2. Movie Information :
 - Access titles, release dates, overviews, and genres of movies.
 - Get details about the cast and crew involved in each movie.
 - Read user reviews and ratings for movies.
 - View images related to movies, including posters and backdrops.
 
-### Search Functionality :
+### 3. Search Functionality :
 - Search for specific movies or TV shows by title or keyword.
 
 ## Deployed On  
